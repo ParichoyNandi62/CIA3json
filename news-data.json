@@ -1,0 +1,86 @@
+[
+    {
+        "id": "cnn-news",
+        "name": "CNN",
+        "author": "Alice Johnson",
+        "title": "Breakthrough in Climate Science",
+        "description": "New findings reveal significant advances in climate science.",
+        "url": "https://www.cnn.com/2024/09/08/climate-science-breakthrough",
+        "urlToImage": "https://cdn.cnn.com/news/images/climate-science.jpg",
+        "publishedAt": "2024-09-08T14:00:00Z",
+        "content": "Scientists have made a groundbreaking discovery that could revolutionize our understanding of climate change. The new study reveals insights that could impact global policy.",
+        "article_id": "a1234567890abcdef"
+    },
+    {
+        "id": "bbc-news",
+        "name": "BBC News",
+        "author": "Jane Smith",
+        "title": "Another Important Event",
+        "description": "Details about another important event happening around the world.",
+        "url": "https://www.bbc.com/news/world/2024/important-event",
+        "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-08T10:20:00Z",
+        "content": "This is the full article content for the important event happening globally.",
+        "article_id": "b234567890abcdef"
+    },
+    {
+        "id": "nytimes-news",
+        "name": "The New York Times",
+        "author": "John Doe",
+        "title": "Economic Trends for the Coming Year",
+        "description": "An analysis of economic trends expected to influence global markets.",
+        "url": "https://www.nytimes.com/2024/09/08/economic-trends",
+        "urlToImage": "https://cdn.nytimes.com/news/images/economic-trends.jpg",
+        "publishedAt": "2024-09-08T12:30:00Z",
+        "content": "The global economy is poised for significant changes in the coming year. Analysts discuss potential impacts on various industries and markets.",
+        "article_id": "c345678901abcdef"
+    },
+    {
+        "id": "reuters-news",
+        "name": "Reuters",
+        "author": "Emily Davis",
+        "title": "New Technology Innovations",
+        "description": "Explore the latest innovations in technology and their potential impact.",
+        "url": "https://www.reuters.com/2024/09/08/technology-innovations",
+        "urlToImage": "https://cdn.reuters.com/news/images/technology-innovations.jpg",
+        "publishedAt": "2024-09-08T16:45:00Z",
+        "content": "The technology sector continues to push boundaries with new innovations. This article explores recent advancements and their implications for the future.",
+        "article_id": "d456789012abcdef"
+    },
+    {
+        "id": "aljazeera-news",
+        "name": "Al Jazeera",
+        "author": "Liam Brown",
+        "title": "Conflict Resolution Strategies",
+        "description": "Strategies and approaches for resolving ongoing conflicts around the world.",
+        "url": "https://www.aljazeera.com/2024/09/08/conflict-resolution",
+        "urlToImage": "https://cdn.aljazeera.com/news/images/conflict-resolution.jpg",
+        "publishedAt": "2024-09-08T09:00:00Z",
+        "content": "Conflicts around the world require effective strategies for resolution. This article examines various approaches and their successes in recent years.",
+        "article_id": "e567890123abcdef"
+    },
+    {
+        "id": "forbes-news",
+        "name": "Forbes",
+        "author": "Sophia Williams",
+        "title": "Top Business Leaders to Watch",
+        "description": "Profiles of influential business leaders making a mark in their industries.",
+        "url": "https://www.forbes.com/2024/09/08/top-business-leaders",
+        "urlToImage": "https://cdn.forbes.com/news/images/business-leaders.jpg",
+        "publishedAt": "2024-09-08T11:00:00Z",
+        "content": "Meet the business leaders who are shaping the future of their industries. This article highlights their achievements and contributions.",
+        "article_id": "f678901234abcdef"
+    },
+    {
+        "id": "theguardian-news",
+        "name": "The Guardian",
+        "author": "Olivia Martinez",
+        "title": "Environmental Protection Measures",
+        "description": "New measures and policies for protecting the environment.",
+        "url": "https://www.theguardian.com/2024/09/08/environmental-protection",
+        "urlToImage": "https://cdn.theguardian.com/news/images/environmental-protection.jpg",
+        "publishedAt": "2024-09-08T13:15:00Z",
+        "content": "Governments and organizations are implementing new measures to protect the environment. This article discusses recent policies and their expected effects.",
+        "article_id": "g789012345abcdef"
+    }
+]
